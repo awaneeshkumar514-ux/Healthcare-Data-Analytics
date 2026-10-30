@@ -1,0 +1,16 @@
+Patient_ID,Age,Gender,Department,Admission_Date,Length_of_Stay,Medical_Cost,Outcome
+P001,25,Female,Cardiology,2026-01-03,3,15000,Discharged
+P002,45,Male,Orthopedics,2026-01-05,5,22000,Discharged
+P003,62,Female,Neurology,2026-01-07,7,35000,Discharged
+P004,34,Male,Cardiology,2026-01-10,2,12000,Discharged
+P005,51,Female,General Medicine,2026-01-12,4,18000,Discharged
+P006,29,Male,Orthopedics,2026-01-15,6,26000,Discharged
+P007,70,Female,Neurology,2026-01-18,8,42000,Transferred
+P008,40,Male,General Medicine,2026-01-20,3,14000,Discharged
+P009,55,Female,Cardiology,2026-02-02,5,28000,Discharged
+P010,19,Male,General Medicine,2026-02-06,2,9000,Discharged
+P011,66,Male,Neurology,2026-02-10,6,38000,Transferred
+P012,38,Female,Orthopedics,2026-02-14,4,20000,Discharged
+P013,47,Male,Cardiology,2026-02-18,3,17000,Discharged
+P014,73,Female,General Medicine,2026-02-20,7,30000,Discharged
+P015,31,Male,Orthopedics,2026-02-24,2,11000,Discharged
